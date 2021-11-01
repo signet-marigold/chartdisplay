@@ -1,4 +1,7 @@
-2021 Alexander Nathan Hack
+WIP!
+
+Displays a stock chart in a window. Allows you to scroll around and hover on individual bars for more info.
+A lot more to be added later.
 
 How to build:
 $ make
