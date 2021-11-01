@@ -1,0 +1,15 @@
+[SDL2]
+[https://www.libsdl.org/]
+SDL2
+SDL2 tff
+SDL2 image
+
+[on debian & ubuntu]
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
+
+
+[JSON-c]
+[https://github.com/json-c/json-c]
+
+[on debian & ubuntu]
+sudo apt install libjson-c-dev

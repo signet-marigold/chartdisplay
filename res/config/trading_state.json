@@ -1,0 +1,15 @@
+{
+  "allSymbols": [
+    "AMD",
+    "APPL",
+    "FB",
+    "AMZN",
+    "NFLX"
+  ],
+  "activeSymbols": [
+    "AMD",
+    "AMZN"
+  ],
+  "trading": true,
+  "activeChart": "AMD_daily.csv"
+}
